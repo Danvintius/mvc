@@ -1,6 +1,7 @@
 package org.example.service;
 
 import org.example.domain.Post;
+import org.example.repository.PostRepository;
 
 import java.util.List;
 
